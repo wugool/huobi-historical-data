@@ -21,3 +21,12 @@ These data sources will be updated incrementally once a month.
 |     col0     |     col1     |     col2     |     col3     |     col4     |     col5     |     col6     |     col7     |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |  Amount  |     Open    |    Close    |     High     | Secondid  |    Count    |     Low     |   Volume   |
+
+
+## Relate Project
+
+[BitcoinPriceHistoryInChina](https://github.com/speculatecat/BitcoinPriceHistoryInChina)Huobi Historical data before october 2017
+
+[cctx](https://github.com/ccxt/ccxt)
+
+
