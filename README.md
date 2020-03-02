@@ -16,3 +16,8 @@ These data sources will be updated incrementally once a month.
 
 [huobi sdk](https://huobiapi.github.io/docs/)
 
+## Data Format
+
+|     col0     |     col1     |     col2     |     col3     |     col4     |     col5     |     col6     |     col6     |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|  amount  |     open    |    close    |     high     | secondid  |    count    |     low     |   volume   |
