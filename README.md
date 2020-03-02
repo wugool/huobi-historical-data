@@ -1,4 +1,7 @@
 # huobi-historical-data
+
+[中文](/readme_cn.md)
+
 1min intervals historical-data (OHLCV) from 2017/10/20 for  Encrypted Digital Currency on the exchange Huobi. include currency pairs ： btcusdt ethusdt htusdt xrpusdt ltcusdt bchusdt eosusdt etcusdt bsvusdt
 
 ## Summary
