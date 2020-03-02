@@ -20,4 +20,4 @@ These data sources will be updated incrementally once a month.
 
 |     col0     |     col1     |     col2     |     col3     |     col4     |     col5     |     col6     |     col7     |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|  amount  |     open    |    close    |     high     | secondid  |    count    |     low     |   volume   |
+|  Amount  |     Open    |    Close    |     High     | Secondid  |    Count    |     Low     |   Volume   |
