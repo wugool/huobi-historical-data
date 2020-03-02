@@ -30,6 +30,6 @@ These data sources will be updated incrementally once a month.
 [cctx](https://github.com/ccxt/ccxt)
 
 [kaggle](https://www.kaggle.com/mczielinski/bitcoin-historical-data) historical bitcoin market data at 1-min intervals
-coinbaseUSD1-mindata2014-12-01to_2019-01-09.csv and bitstampUSD1-mindata2012-01-01to_2019-08-12.csv, CSV files for select bitcoin + bitstamp exchanges for the time period of Jan 2012 to August 2019
+ **coinbaseUSD1-mindata2014-12-01to_2019-01-09.csv** and **bitstampUSD1-mindata2012-01-01to_2019-08-12.csv** , CSV files for select bitcoin + bitstamp exchanges for the time period of Jan 2012 to August 2019
 
 
