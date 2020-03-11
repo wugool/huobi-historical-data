@@ -31,3 +31,19 @@
  **coinbaseUSD1-mindata2014-12-01to_2019-01-09.csv** 和 **bitstampUSD1-mindata2012-01-01to_2019-08-12.csv** 两个文件 , CSV 文件选择了**bitcoin** 和 **bitstamp** 两个老牌交易所2012年到2019年的数据
 
 [BitcoinPriceHistoryInChina](https://github.com/speculatecat/BitcoinPriceHistoryInChina) 火币历史交易数据(2017年10月前的btc 和 ltc 每日数据)
+
+[Bitfinex-historical-data](https://github.com/Zombie-3000/Bitfinex-historical-data)
+
+**BTC/USD**(2013-2019)
+
+**ETH/USD**(2016-2019)
+
+**EOS/USD**(2017-2019)
+
+**LTC/USD**(2013-2019)
+
+**XRP/USD**(2017-2019)
+
+**IOT/USD**(2017-2019)
+
+**NEO/USD**(2017-2019)
