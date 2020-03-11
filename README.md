@@ -38,9 +38,15 @@ These data sources will be updated incrementally once a month.
 [Bitfinex-historical-data](https://github.com/Zombie-3000/Bitfinex-historical-data)
 
 **BTC/USD**(2013-2019)
+
 **ETH/USD**(2016-2019)
+
 **EOS/USD**(2017-2019)
+
 **LTC/USD**(2013-2019)
+
 **XRP/USD**(2017-2019)
+
 **IOT/USD**(2017-2019)
+
 **NEO/USD**(2017-2019)
