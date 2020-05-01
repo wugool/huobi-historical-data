@@ -23,7 +23,7 @@ These data sources will be updated incrementally once a month.
 
 |     id     |     open     |     high     |     low     |     close     |     vol     |     count     |     amount     |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|     id（unix-seconds）     |     open-price     |     high-price     |     low-price     |     close-price     |     volume     |     count-num     |     amount-sum(price*count)     |
+|     id（seconds）     |     open price     |     highest price     |     lowest price     |     close price     |     volume     |     count num     |     amount:sum(price*count)     |
 
 
 ## Relate Project
