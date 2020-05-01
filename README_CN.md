@@ -18,9 +18,9 @@
 
 ## 数据格式
 
-|     col0     |     col1     |     col2     |     col3     |     col4     |     col5     |     col6     |     col7     |
+|     id     |     open     |     high     |     low     |     close     |     vol     |     count     |     amount     |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|  Amount  |     Open    |    Close    |     High     | Secondid  |    Count    |     Low     |   Volume   |
+|     id（seconds）     |     open price     |     highest price     |     lowest price     |     close price     |     volume     |     count num     |     amount: sum(price*count)     |
 
 
 ## 相关项目
