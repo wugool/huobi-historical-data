@@ -2,14 +2,21 @@
 
 [中文](./README_CN.md)
 
-1min intervals historical-data (OHLCV) from 2017/10/20 for  Encrypted Digital Currency on the exchange Huobi. include currency pairs ： btcusdt ethusdt htusdt xrpusdt ltcusdt bchusdt eosusdt etcusdt bsvusdt
+1min intervals historical-data (OHLCV) from 2017/10/20 for  Encrypted Digital Currency on the exchange Huobi. 
+include coins: btc、 eth、 etc、 ht、 xrp、 ltc、 bch、 bsv、 eos、 link etc. 
+
+include currency pairs ： btcusdt 
+
+ethusdt htusdt xrpusdt ltcusdt bchusdt eosusdt etcusdt bsvusdt
+
+ethbtc htbtc xrpbtc ltcbtc bchbtc eosbtc etcbtc bsvbtc
 
 ## Summary
 [kaggle](https://www.kaggle.com/mczielinski/bitcoin-historical-data) collect bitcoin history-data (OHLCV) on exchage **bitstamp** , but the data is no longer updated. 
 
 On the one hand, view researches on kaggle, on the other hand, try to finding some interesting appearances in the field of encryption digital currency with strong randomness.
 
-Coins: btc ht eth etc ltc xrp bch eos etc.
+Coins: btc、 eth、 etc、 ht、 xrp、 ltc、 bch、 bsv、 eos、 link etc.
 
 These data sources will be updated incrementally once a month.
 
