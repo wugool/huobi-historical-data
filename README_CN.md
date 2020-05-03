@@ -1,12 +1,18 @@
 # 火币历史交易数据
-本项目致力于收集火币交易所上，从2017年10月20日器的**1min** 间隔级别的主要几种数字加密币的历史交易数据(OHLCV)。包括货币对： btcusdt ethusdt htusdt xrpusdt ltcusdt bchusdt eosusdt etcusdt bsvusdt
+本项目致力于收集火币交易所上，从2017年10月20日器的**1min** 间隔级别的主要几种数字加密币的历史交易数据(OHLCV)。收集的币种包括：btc、 eth、 etc、 ht、 xrp、 ltc、 bch、 bsv、 eos、 link 等。
+
+包括货币对： btcusdt 
+
+ethusdt htusdt xrpusdt ltcusdt bchusdt eosusdt etcusdt bsvusdt
+
+ethbtc htbtc xrpbtc ltcbtc bchbtc eosbtc etcbtc bsvbtc
 
 ## 概述
 [kaggle](https://www.kaggle.com/mczielinski/bitcoin-historical-data) 收集了**bitstamp** 和 **coinbase**交易所上2012--2019年期间的历史交易数据(OHLCV) , 这些数据目前已经不再更新. 
 
 在学习Kaggle上的数据分析的基础上，本项目也试图持续收集类似的数据，并且期待发现在高度随机的加密数字货币交易方面一些有趣的现象。
 
-收集的币种: btc ht eth etc ltc xrp bch eos etc。计价基准单位：usdt。
+收集的币种: btc、 eth、 etc、 ht、 xrp、 ltc、 bch、 bsv、 eos、 link 等。计价基准单位：usdt/btc。
 
 如果接口没有重大问题，本项目将每个月更新一次数据集.
 
